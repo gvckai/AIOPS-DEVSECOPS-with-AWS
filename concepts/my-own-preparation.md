@@ -11,5 +11,7 @@
 Assigning groups:
 ```
 usermod -g devops ramesh      # sets devops as ramesh's primary group
+```
+```
 usermod -aG sre ramesh        # adds ramesh to sre as a secondary group (-a = append)
 ```
