@@ -1,5 +1,27 @@
 # My Own Preparation
 
+# Linux Shortcuts
+- `Ctrl + +` It is increase the terminal screen size
+- `Ctrl + -` It is decrease the Terminal screen size
+- `Ctrl + Right arrow` It moves word by word to right side
+- `Ctrl + Left Arroe` it moves word by word to lift side
+- `Ctrl + B` it moves letter by letter to lift side
+- `Ctrl + F` it moves word by word to right side of the command
+- `Alt + B` it moves word by word to lift side of command
+- `Alt + F` it moves word by word to right side of command
+- `Alt + U` it turns Upper case after cursor
+- `Alt + L` it turns lowercase after curser
+
+
+
+
+
+
+- `Ctrl + a` cursor moves the bigining othe comman or starting of line
+- `Ctrl + e` Cursor moves the ending of the line or command
+- `Ctrl + w` It removes reft side of the curser
+- `Ctrl + L` It is easyest way to clear the creen
+- `Ctrl + D` it Quit the terminal
 ## How to find IP address in Ubuntu Box
 
 **Usea:**
