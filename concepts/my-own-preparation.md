@@ -21,7 +21,7 @@ uname  -  : It prints system or kernel information
 pwd -  : It prints present working directories 
 ```
 # Wownloading and viewing content
-- `wget` <url>` It downloads a file from internet and save it locally
+- `wget <url>` It downloads a file from internet and save it locally
 - `curl <url>` fetches a URL and prints print the to the screen content 
 - It does not save to a file default
 
