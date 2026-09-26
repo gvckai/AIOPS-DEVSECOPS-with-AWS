@@ -10,6 +10,7 @@
 - `Alt + B` it moves word by word to lift side of command
 - `Alt + F` it moves word by word to right side of command
 - `Alt + U` it turns Upper case after cursor
+- `Ctl + U` it removes entair line of bebore cursor
 - `Alt + L` it turns lowercase after curser
 
 
